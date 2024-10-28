@@ -99,4 +99,3 @@ function agregarGasto(e){
         ui.ImprimirAlerta('El valor no es correcto','error');
     }
 }
-
